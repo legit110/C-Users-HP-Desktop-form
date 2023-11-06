@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+
+#main{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+
+
+.formdiv{
+    width: 400px;
+    height: 300px;
+    margin-top: 60px;
+    margin-right: 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(106, 60, 150);
+
+}
+
+
+input{
+    margin: 20px;
+    width: 80%;
+    height: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: medium;
+}
+
+button{
+    margin: 20px;
+    width: 30%;
+    height: 35px;
+    border-radius: 10px;
+
+}
+
+
+
+
+
